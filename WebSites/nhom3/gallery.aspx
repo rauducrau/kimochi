@@ -8,6 +8,7 @@
          <div id="content">
             <div class="line">
                <div class="margin">
+                   <a>Hải Đẹp Trai</a>
                    <asp:DetailsView ID="DetailsView1" runat="server" Height="50px" Width="125px" AllowPaging="True" AutoGenerateRows="False" DataKeyNames="id" DataSourceID="SqlDataSource1">
                        <Fields>
                            <asp:BoundField DataField="id" HeaderText="id" ReadOnly="True" SortExpression="id" />
