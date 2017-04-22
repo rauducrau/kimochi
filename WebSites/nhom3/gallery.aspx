@@ -4,7 +4,7 @@
     <form id="form1" runat="server">
     <section>
          <div id="head">
-             <h1>Hải le vô dối</h1>
+             <h1>Vũ Ngọc hải Đẹp Zai</h1>
          </div>
          <div id="content">
             <div class="line">
