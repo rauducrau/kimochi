@@ -5,7 +5,7 @@
     <section>
          <div id="head">
             <div class="line">
-               <h1>QUẢN LÝ SẢN PHẨM - The fucking D</h1>
+               <h1>QUẢN LÝ SẢN PHẨM - The fucking D BRANCH</h1>
             </div>
          </div>
          <div id="content">
