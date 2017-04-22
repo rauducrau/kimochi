@@ -5,7 +5,7 @@
     <section>
          <div id="head">
             <div class="line">
-               <h1>QUẢN LÝ SẢN PHẨM - Đức là người của tool</h1>
+               <h1>QUẢN LÝ SẢN PHẨM - Anh là vô dick</h1>
             </div>
          </div>
          <div id="content">
