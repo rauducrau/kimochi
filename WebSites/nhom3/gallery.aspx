@@ -4,12 +4,12 @@
     <form id="form1" runat="server">
     <section>
          <div id="head">
-             <h1>Haivnph04298</h1>
+             <h1>Haivnph04298_lan1</h1>
          </div>
          <div id="content">
             <div class="line">
                <div class="margin">
-                   <a>Haivnph04298</a>
+                   <a>Haivnph04298_lan1</a>
                    <asp:DetailsView ID="DetailsView1" runat="server" Height="50px" Width="125px" AllowPaging="True" AutoGenerateRows="False" DataKeyNames="id" DataSourceID="SqlDataSource1">
                        <Fields>
                            <asp:BoundField DataField="id" HeaderText="id" ReadOnly="True" SortExpression="id" />
