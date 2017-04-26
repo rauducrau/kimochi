@@ -36,7 +36,8 @@
                    </asp:SqlDataSource>
 
                 &nbsp;Nguyen Quang Phu<br />
-                   0962062097</div>
+                   0962062097<br />
+                   12/7/1997</div>
             </div>
          </div>
       </section>
