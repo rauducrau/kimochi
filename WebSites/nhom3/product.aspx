@@ -5,7 +5,7 @@
     <section>
          <div id="head">
             <div class="line">
-               <h1>Ra trong 5 phút lần 4</h1>
+               <h1>Hô la</h1>
             </div>
          </div>
          <div id="content">
